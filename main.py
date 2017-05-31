@@ -30,7 +30,7 @@ def main():
 						graph.addRelationship(person, people[otherMemberId])
 
 
-	connection = graph.shortestPath(people[0], people[21])
+	connection = graph.findRelationship(people[0], people[21])
 
 	statement = "The most direct line of relation between " + str(people[0]) + " and " + str(people[21]) + " is:"
 	for person in connection:

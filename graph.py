@@ -23,7 +23,7 @@ class Graph:
 		if v is not None:
 			self.graph[u].append(v)
 
-	def shortestPath(self, u, v):
+	def findRelationship(self, u, v):
 		queue = [[u]]
 		visited = []
 
@@ -42,7 +42,7 @@ class Graph:
 					if relation == v:
 						return new_path
 				visited.append(node)
-		return "path does not exist"
+		return "Path does not exist."
 
 		
 	def __repr__(self):
