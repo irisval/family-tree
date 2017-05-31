@@ -1,0 +1,149 @@
+{
+	"Windsors": {
+		"George V": {
+			"id":0,"spouse":1, "ex_spouse":null, "father":null, "mother":null, "children":[2, 3, 4, 5, 7, 8, 10]
+		},
+		"Mary of Teck": {
+			"id":1,"spouse":0, "ex_spouse":null, "father":null, "mother":null, "children":[2, 3, 4, 5, 7, 8, 10]
+		},
+		"Edward VII": {
+			"id":2,"spouse":null, "ex_spouse":null, "father":0, "mother":1, "children":null
+		},
+		"George VI": {
+			"id":3,"spouse":4, "ex_spouse":null, "father":0, "mother":1, "children":[11, 13]
+		},
+		"Elizabeth Bowes-Lyon": {
+			"id":4,"spouse":3, "ex_spouse":null, "father":null, "mother":null, "children":[11, 13]
+		},
+		"Mary, Countess of Harewood": {
+			"id":5,"spouse":6, "ex_spouse":null, "father":0, "mother":1, "children":null
+		},
+		"Henry Lascelles": {
+			"id":6,"spouse":5, "ex_spouse":null, "father":0, "mother":1, "children":null
+		},
+		"Henry of Gloucester": {
+			"id":7,"spouse":null, "ex_spouse":null, "father":0, "mother":1, "children":[15]
+		},
+		"George, Duke of Kent": {
+			"id":8,"spouse":9, "ex_spouse":null, "father":0, "mother":1, "children":[16, 29, 30]
+		},
+		"Princess Marina of Greece and Denmark": {
+			"id":9,"spouse":8, "ex_spouse":null, "father":null, "mother":null, "children":[16, 29, 30]
+		},
+		"Prince John of the UK": {
+			"id":10,"spouse":null, "ex_spouse":null, "father":0, "mother":1, "children":null
+		},
+		"Elizabeth II": {
+			"id":11,"spouse":12, "ex_spouse":null, "father":3, "mother":4, "children":[18, 21, 24, 26]
+		},
+		"Philip Duke of Edinburg": {
+			"id":12,"spouse":11, "ex_spouse":null, "father":null, "mother":null, "children":[18, 21, 24, 26]
+		},
+		"Princess Margaret": {
+			"id":13,"spouse":14, "ex_spouse":null, "father":3, "mother":4, "children":null
+		},
+		"Antony Armstrong Jones": {
+			"id":14,"spouse":13, "ex_spouse":null, "father":null, "mother":null, "children":null
+		},
+		"Richard Duke of Gloucester": {
+			"id":15,"spouse":null, "ex_spouse":null, "father":7, "mother":null, "children":null
+		},
+		"Edward Duke of Kent": {
+			"id":16,"spouse":14, "ex_spouse":null, "father":8, "mother":9, "children":null
+		},
+		"Katharine Duchess of Kent": {
+			"id":17,"spouse":13, "ex_spouse":null, "father":null, "mother":null, "children":null
+		},
+		"Prince Charles": {
+			"id":18,"spouse":20, "ex_spouse":[19], "father":12, "mother":11, "children":[32, 33]
+		},
+		"Princess Diana": {
+			"id":19,"spouse":null, "ex_spouse":[18], "father":null, "mother":null, "children":[32, 33]
+		},
+		"Camilla Duchess of Cornwall": {
+			"id":20,"spouse":18, "ex_spouse":null, "father":null, "mother":null, "children":null
+		},
+		"Anne Princess Royal": {
+			"id":21,"spouse":23, "ex_spouse":[22], "father":12, "mother":11, "children":[35, 37]
+		},
+		"Captain Mark Phillips": {
+			"id":22,"spouse":null, "ex_spouse":[21], "father":null, "mother":null, "children":[35, 37]
+		},
+		"Captain Timothy Laurence": {
+			"id":23,"spouse":21, "ex_spouse":null, "father":null, "mother":null, "children":null
+		},
+		"Prince Andrew Duke of York": {
+			"id":24,"spouse":null, "ex_spouse":[25], "father":12, "mother":11, "children":[39, 40]
+		},
+		"Sarah Fergussen Duchess of York": {
+			"id":25,"spouse":null, "ex_spouse":[24], "father":null, "mother":null, "children":[39, 40]
+		},
+		"Prince Edward Earl of Essex": {
+			"id":26,"spouse":27, "ex_spouse":null, "father":12, "mother":11, "children":[41, 42]
+		},
+		"Sophie Rhys-Jones Countess of Wessex": {
+			"id":27,"spouse":26, "ex_spouse":null, "father":null, "mother":null, "children":[41, 42]
+		},
+		"Prince Michael of Kent": {
+			"id":28,"spouse":29, "ex_spouse":null, "father":8, "mother":9, "children":null
+		},
+		"Princess Michael of Kent": {
+			"id":29,"spouse":28, "ex_spouse":null, "father":null, "mother":null, "children":null
+		},
+		"Princess Alexandra of Kent": {
+			"id":30,"spouse":31, "ex_spouse":null, "father":8, "mother":9, "children":null
+		},
+		"Angus Ogilvy": {
+			"id":31,"spouse":30, "ex_spouse":null, "father":null, "mother":null, "children":null
+		},
+		"Prince Henry": {
+			"id":32,"spouse":null, "ex_spouse":null, "father":18, "mother":19, "children":null
+		},
+		"Prince William of Cambridge": {
+			"id":33,"spouse":34, "ex_spouse":null, "father":18, "mother":19, "children":[43, 44]
+		},
+		"Catherine Duchess of Cambridge": {
+			"id":34,"spouse":33, "ex_spouse":null, "father":null, "mother":null, "children":[43, 44]
+		},
+		"Peter Phillips": {
+			"id":35,"spouse":36, "ex_spouse":null, "father":22, "mother":21, "children":[45, 46]
+		},
+		"Autum Phillips": {
+			"id":36,"spouse":39, "ex_spouse":null, "father":null, "mother":null, "children":[45, 46]
+		},
+		"Zara Phillips": {
+			"id":37,"spouse":38, "ex_spouse":null, "father":22, "mother":21, "children":[47]
+		},
+		"Mike Tindall": {
+			"id":38,"spouse":37, "ex_spouse":null, "father":null, "mother":null, "children":[47]
+		},
+		"Princess Beatrice": {
+			"id":39,"spouse":null, "ex_spouse":null, "father":24, "mother":25, "children":null
+		},
+		"Princess Eugenie": {
+			"id":40,"spouse":null, "ex_spouse":null, "father":24, "mother":25, "children":null
+		},
+		"Lady Louisa": {
+			"id":41,"spouse":null, "ex_spouse":null, "father":26, "mother":27, "children":null
+		},
+		"James Viscount Severn": {
+			"id":42,"spouse":null, "ex_spouse":null, "father":26, "mother":27, "children":null
+		},
+		"Prince George": {
+			"id":43,"spouse":null, "ex_spouse":null, "father":33, "mother":34, "children":null
+		},
+		"Princess Charlotte": {
+			"id":44,"spouse":null, "ex_spouse":null, "father":33, "mother":34, "children":null
+		},
+		"Savannah": {
+			"id":45,"spouse":null, "ex_spouse":null, "father":35, "mother":36, "children":null
+		},
+		"Isla": {
+			"id":46,"spouse":null, "ex_spouse":null, "father":35, "mother":36, "children":null
+		}, 
+		"Mia": {
+			"id":47,"spouse":null, "ex_spouse":null, "father":37, "mother":38, "children":null
+		}
+	}
+
+}

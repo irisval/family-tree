@@ -1,0 +1,111 @@
+defaultdict(<class 'list'>,
+{  
+   Prince William:[  
+      Kate Middleton,
+      Charles Prince of Wales,
+      Diana Princess of Wales
+   ],
+   Prince Harry:[  
+      Charles Prince of Wales,
+      Diana Princess of Wales
+   ],
+   Captain Timothy Laurence:[  
+      Anne Princess Royal
+   ],
+   Sophie Rhys-Jones Countess of Wessex:[  
+      Prince Edward Earl of Wessex,
+      Lady Louisa,
+      James Viscount Severn
+   ],
+   James Viscount Severn:[  
+      Prince Edward Earl of Wessex,
+      Sophie Rhys-Jones Countess of Wessex
+   ],
+   Charles Prince of Wales:[  
+      Diana Princess of Wales,
+      Camilla Duchess of Cornwall,
+      Prince Philip,
+      Elizabeth II,
+      Prince William,
+      Prince Harry
+   ],
+   Princess Beatrice:[  
+      Prince Andrew Duke of York,
+      Sarah Ferguson Duchess of York
+   ],
+   Sarah Ferguson Duchess of York:[  
+      Prince Andrew Duke of York,
+      Princess Beatrice,
+      Princess Eugenie
+   ],
+   Captain Mark Phillips:[  
+      Anne Princess Royal,
+      Peter Phillips
+   ],
+   Prince Philip:[  
+      Elizabeth II,
+      Charles Prince of Wales,
+      Anne Princess Royal,
+      Prince Andrew Duke of York,
+      Prince Edward Earl of Wessex
+   ],
+   Prince Edward Earl of Wessex:[  
+      Sophie Rhys-Jones Countess of Wessex,
+      Prince Philip,
+      Elizabeth II,
+      Lady Louisa,
+      James Viscount Severn
+   ],
+   Camilla Duchess of Cornwall:[  
+      Charles Prince of Wales
+   ],
+   Kate Middleton:[  
+      Prince William
+   ],
+   Autumn Kelly:[  
+      Peter Phillips
+   ],
+   Diana Princess of Wales:[  
+      Charles Prince of Wales,
+      Prince William,
+      Prince Harry
+   ],
+   Elizabeth II:[  
+      Prince Philip,
+      Charles Prince of Wales,
+      Anne Princess Royal,
+      Prince Andrew Duke of York,
+      Prince Edward Earl of Wessex
+   ],
+   Zara Phillips:[  
+      Peter Phillips
+   ],
+   Lady Louisa:[  
+      Prince Edward Earl of Wessex,
+      Sophie Rhys-Jones Countess of Wessex
+   ],
+   Peter Phillips:[  
+      Autumn Kelly,
+      Zara Phillips,
+      Captain Mark Phillips,
+      Anne Princess Royal
+   ],
+   Anne Princess Royal:[  
+      Captain Mark Phillips,
+      Captain Timothy Laurence,
+      Prince Philip,
+      Elizabeth II,
+      Peter Phillips
+   ],
+   Prince Andrew Duke of York:[  
+      Sarah Ferguson Duchess of York,
+      Prince Philip,
+      Elizabeth II,
+      Princess Beatrice,
+      Princess Eugenie
+   ],
+   Princess Eugenie:[  
+      Prince Andrew Duke of York,
+      Sarah Ferguson Duchess of York
+   ]
+})

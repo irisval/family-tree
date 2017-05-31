@@ -1,0 +1,70 @@
+{
+	"Windsors": {
+		"Elizabeth II": {
+			"id":0, "generation":1,"spouse":1, "ex_spouse":null, "father":null, "mother":null, "children":[2, 5, 8, 10]
+		},
+		"Prince Philip": {
+			"id":1, "generation":1,"spouse":0, "ex_spouse":null, "father":null, "mother":null, "children":[2, 5, 8, 10]
+		},
+		"Charles Prince of Wales": {
+			"id":2, "generation":2,"spouse":3, "ex_spouse":[4], "father":1, "mother":0, "children":[12,14]
+		},
+		"Diana Princess of Wales": {
+			"id":3, "generation":2,"spouse":2, "ex_spouse":null, "father":null, "mother":null, "children":[12,14]
+		},
+		"Camilla Duchess of Cornwall": {
+			"id":4, "generation":2,"spouse":null, "ex_spouse":[2], "father":null, "mother":null, "children":null
+		},
+		"Anne Princess Royal": {
+			"id":5, "generation":2,"spouse":6, "ex_spouse":[7], "father":1, "mother":0, "children":[15]
+		},
+		"Captain Mark Phillips": {
+			"id":6, "generation":2,"spouse":5, "ex_spouse":null, "father":null, "mother":null, "children":[15]
+		},
+		"Captain Timothy Laurence": {
+			"id":7, "generation":2,"spouse":null, "ex_spouse":[5], "father":null, "mother":null, "children":null
+		},
+		"Prince Andrew Duke of York": {
+			"id":8, "generation":2,"spouse":9, "ex_spouse":null, "father":1, "mother":0, "children":[18,19]
+		},
+		"Sarah Ferguson Duchess of York": {
+			"id":9, "generation":2,"spouse":8, "ex_spouse":null, "father":null, "mother":null, "children":[18,19]
+		},
+		"Prince Edward Earl of Wessex": {
+			"id":10, "generation":2,"spouse":11, "ex_spouse":null, "father":1, "mother":0, "children":[20, 21]
+		},
+		"Sophie Rhys-Jones Countess of Wessex": {
+			"id":11, "generation":2,"spouse":10 , "ex_spouse":null, "father":null, "mother":null, "children":[20, 21]
+		},
+		"Prince William": {	
+			"id":12, "generation":3,"spouse":13, "ex_spouse":null, "father":2, "mother":3, "children":null
+		},
+		"Kate Middleton": {
+			"id":13, "generation":3,"spouse":12, "ex_spouse":null, "father":null, "mother":null, "children":null
+		},
+		"Prince Harry": {
+			"id":14, "generation":3,"spouse":null, "ex_spouse":null, "father":2, "mother":3, "children":null
+		},
+		"Peter Phillips": {
+			"id":15, "generation":3,"spouse":16, "ex_spouse":[17], "father":6, "mother":5, "children":null
+		},
+		"Autumn Kelly": {
+			"id":16, "generation":3,"spouse":15, "ex_spouse":null, "father":null, "mother":null, "children":null
+		},
+		"Zara Phillips": {
+			"id":17, "generation":3,"spouse":null, "ex_spouse":[15], "father":null, "mother":null, "children":null
+		},
+		"Princess Beatrice": {
+			"id":18, "generation":3,"spouse":null, "ex_spouse":null, "father":8, "mother":9, "children":null
+		},
+		"Princess Eugenie": {
+			"id":19, "generation":3,"spouse":null, "ex_spouse":null, "father":8, "mother":9, "children":null
+		},
+		"Lady Louisa": {
+			"id":20, "generation":3,"spouse":null, "ex_spouse":null, "father":10, "mother":11, "children":null
+		},
+		"James Viscount Severn": {
+			"id":21, "generation":3,"spouse":null, "ex_spouse":null, "father":10, "mother":11, "children":null
+		}
+	}
+}
