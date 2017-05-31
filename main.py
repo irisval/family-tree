@@ -5,14 +5,17 @@ from graph import Person, Graph
 
 
 
-def main():
+def loadJSON():
 	with open('windsors.json', 'r') as f:
 	 	data = json.load(f, object_pairs_hook=OrderedDict)
 
+	global graph, people
 	graph = Graph()
+	people = []
+
 	family = data['Windsors']
 	relations = ['spouse', 'ex_spouse', 'mother', 'father', 'children']
-	people = []
+
 
 	for member in family:
 		person = Person(member, family[member]["id"], family[member]["spouse"], family[member]["ex_spouse"], family[member]["father"], family[member]["mother"], family[member]["children"])
@@ -29,12 +32,17 @@ def main():
 					if otherMemberId is not None:
 						graph.addRelationship(person, people[otherMemberId])
 
+def main():
+	loadJSON()
+	link = [[0,21],[0,1],[8,47],[46, 43],[3,24],[10,15],[20,23],[5,40],[9,17],[6,28]]
+	connections = []
 
-	connection = graph.findRelationship(people[0], people[21])
+	for num in link:
+		connections = graph.findRelationship(people[num[0]], people[num[1]])
+		print("\nThe most direct line of relation between " + str(people[num[0]]) + " and " + str(people[num[1]]) + " is:")
+		for person in connections:
+			print("\t--> " + str(person))
+	
 
-	statement = "The most direct line of relation between " + str(people[0]) + " and " + str(people[21]) + " is:"
-	for person in connection:
-		statement += "\n\t--> " + str(person)
-	print(statement)
 
 main()
